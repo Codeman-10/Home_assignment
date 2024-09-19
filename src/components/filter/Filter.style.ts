@@ -13,11 +13,8 @@ export const FilterWrapper = styled.div`
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    h1 {
-      margin-left: 25px;
-    }
     p {
-      margin-right: 25px;
+      padding:14px;
       cursor: pointer;
       font-weight: bold;
       font-size: 1rem;
